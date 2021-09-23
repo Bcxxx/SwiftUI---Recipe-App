@@ -27,9 +27,7 @@ struct RecipeTabView: View {
                         Text("List")
                     }
                 }
-            
         }
-        
     }
 }
 
