@@ -18,6 +18,7 @@
 		BDB5F73F26F3B691008415BE /* RecipeModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDB5F73E26F3B691008415BE /* RecipeModel.swift */; };
 		BDB5F74126F3B7C6008415BE /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDB5F74026F3B7C6008415BE /* DataService.swift */; };
 		BDB5F74626F3CDDF008415BE /* RecipeDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDB5F74526F3CDDF008415BE /* RecipeDetailView.swift */; };
+		BDBFA5CE2704ECBC00B9761F /* RecipeHighlights.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDBFA5CD2704ECBC00B9761F /* RecipeHighlights.swift */; };
 		BDD7FD8926FCF1C3007ABC31 /* RecipeFeaturedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD7FD8826FCF1C3007ABC31 /* RecipeFeaturedView.swift */; };
 /* End PBXBuildFile section */
 
@@ -35,6 +36,7 @@
 		BDB5F73E26F3B691008415BE /* RecipeModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeModel.swift; sourceTree = "<group>"; };
 		BDB5F74026F3B7C6008415BE /* DataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
 		BDB5F74526F3CDDF008415BE /* RecipeDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeDetailView.swift; sourceTree = "<group>"; };
+		BDBFA5CD2704ECBC00B9761F /* RecipeHighlights.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeHighlights.swift; sourceTree = "<group>"; };
 		BDD7FD8826FCF1C3007ABC31 /* RecipeFeaturedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeFeaturedView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -105,6 +107,7 @@
 				BDD7FD8826FCF1C3007ABC31 /* RecipeFeaturedView.swift */,
 				BDB5F72826F3B393008415BE /* RecipeListView.swift */,
 				BDB5F74526F3CDDF008415BE /* RecipeDetailView.swift */,
+				BDBFA5CD2704ECBC00B9761F /* RecipeHighlights.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -213,6 +216,7 @@
 			files = (
 				BDB5F73D26F3B598008415BE /* Recipe.swift in Sources */,
 				BDB5F74626F3CDDF008415BE /* RecipeDetailView.swift in Sources */,
+				BDBFA5CE2704ECBC00B9761F /* RecipeHighlights.swift in Sources */,
 				BD1B9E602700D4F400F0B5CE /* Rational.swift in Sources */,
 				BDB5F73F26F3B691008415BE /* RecipeModel.swift in Sources */,
 				BDB5F72926F3B393008415BE /* RecipeListView.swift in Sources */,
